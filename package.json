@@ -1,7 +1,8 @@
-"homepage": "https://thirofe.github.io/prod-checkins2/",
+{
   "name": "meu-app-checkin",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://thirofe.github.io/prod-checkins2/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
